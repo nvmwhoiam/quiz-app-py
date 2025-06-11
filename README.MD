@@ -59,6 +59,10 @@ Each question in `quiz_data.json` is represented as follows:
 }
 ```
 
+## Contact
+
+If you have any questions or need assistance, please do not hesitate to reach out. I apologize if any part of this setup is not clear; this is my first major project, and I am putting in continuous effort to improve it. Feel free to contact me at [info@sadevworks.com](mailto:info@sadevworks.com) or open an issue on the [GitHub Repository](https://github.com/nvmwhoiam/quiz-app-py).
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
@@ -69,5 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- nvmwhoiam
-- GitHub: <a href="https://github.com/nvmwhoiam">GitHub Profile</a>
+- Email: [info@sadevworks.com](mailto:info@sadevworks.com)
+- Website: [sadevworks.com](https://sadevworks.com)
+- GitHub: [@nvmwhoiam](https://github.com/nvmwhoiam/)
